@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m an student who is currently working on front end
 - 🌱 I’m currently learning about phyton, front end, back end, Laravel.
 - 😄 Pronouns: ela/dela she/her
-- ⚡ Fun fact: i am a student who has 14 years old and even though i am young i am very intersted in progamming. 
+- ⚡ Fun fact: i am a student who has 14 years old and even though i am young i am very intersted in progamming and i have been studying about since 4 years ago. 
 -->
 <div align="center">
   <a href="https://github.com/Luiza4556">
